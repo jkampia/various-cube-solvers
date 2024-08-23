@@ -1,3 +1,3 @@
-cubesolver: processing GUI (required for class project), python for use of kociemba library, C++ for stepper motor actuation on Arduino mega or Teensy with enough pins.
+3x3 cubesolver: processing GUI (required for class project), python for use of kociemba library, C++ for stepper motor actuation on Arduino mega or Teensy with enough pins.
 
 4x4 cubesolver coming soon...
